@@ -15,7 +15,6 @@ ENV/
 *.pickle
 
 # Large CSV Datasets
-*.csv
 
 # Jupyter Notebook Checkpoints & Cache
 .ipynb_checkpoints/
