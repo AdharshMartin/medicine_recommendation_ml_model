@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Trained Models & Processed Data Artifacts (Joblib / Pickle)
+*.joblib
+*.pkl
+*.pickle
+
+# Large CSV Datasets
+*.csv
+
+# Jupyter Notebook Checkpoints & Cache
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# VS Code & IDE Settings
+.vscode/
+.idea/
+
+# Streamlit Local Cache & Config
+.streamlit/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
