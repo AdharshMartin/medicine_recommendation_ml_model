@@ -10,7 +10,6 @@ ENV/
 .venv/
 
 # Trained Models & Processed Data Artifacts (Joblib / Pickle)
-*.joblib
 *.pkl
 *.pickle
 
